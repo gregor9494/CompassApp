@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompassProject</string>
+    <string name="latitude_hint">Latitude</string>
+    <string name="longitude_hint">Longitude</string>
+    <string name="permission_denied_info_label">Application cannot navigate you without location permission. Click to add
+        permissions.
+    </string>
+</resources>
